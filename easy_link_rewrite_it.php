@@ -3,10 +3,12 @@
 Plugin Name: easy link rewrite it
 Plugin URI: https://github.com/helongquan/easy_link_rewrite_it
 Description: 这个是一个非常简单易用的插件，插件用于重写页面，文章链接地址
-Version: 1.0
+Version: 1.0.0
 Author: 追梦人
-Author URI: https://github.com/helongquan/easy_link_rewrite_it
-License: GPLv3
+Author URI: https://profiles.wordpress.org/helongquan/
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: easy-link-rewrite-it
 
 {Plugin Name} is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
