@@ -1,4 +1,6 @@
-## easy link rewrite it
+## 插件说明文档
+
+插件名称：easy link rewrite it
 
 #### 描述
 
@@ -38,7 +40,7 @@
 
 #### 贡献
 
-欢迎对该插件进行贡献！如果您发现了问题或有改进建议，请提交问题报告或拉取请求。您可以通过插件的GitHub仓库进行贡献。
+欢迎对该插件进行贡献！如果您发现了问题或有改进建议，请提交问题报告或拉取请求。您可以通过插件的[GitHub仓库](https://github.com/helongquan/easy_link_rewrite_it)进行贡献。
 
 #### 许可证
 
