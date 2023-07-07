@@ -42,7 +42,7 @@
 
 #### 许可证
 
-该插件基于 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) 进行许可。
+该插件基于 [GNU General Public License v2.0](https://www.gnu.org/licenses/gpl-2.0.en.html) 进行许可。
 
 #### 注意事项
 
@@ -52,6 +52,6 @@
 
 #### 链接
 
-- 插件GitHub仓库: [easy link rewrite it](https://github.com/your-plugin-repo)
-- 报告问题: [问题报告](https://github.com/helongquan/easy_link_rewrite_it)
-- 许可证: [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- 插件GitHub仓库: [easy link rewrite it](https://github.com/helongquan/easy_link_rewrite_it)
+- 报告问题: [问题报告](https://profiles.wordpress.org/helongquan/)
+- 许可证: [GNU General Public License v2.0](https://www.gnu.org/licenses/gpl-2.0.en.html)
