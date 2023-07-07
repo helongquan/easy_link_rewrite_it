@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: easy link rewrite it
-Plugin URI: https://habotalk.com
+Plugin URI: https://github.com/helongquan/easy_link_rewrite_it
 Description: 这个是一个非常简单易用的插件，插件用于重写页面，文章链接地址
 Version: 1.0
 Author: 追梦人
-Author URI: https://habatalk.com
+Author URI: https://github.com/helongquan/easy_link_rewrite_it
 License: GPLv3
 
 {Plugin Name} is free software: you can redistribute it and/or modify

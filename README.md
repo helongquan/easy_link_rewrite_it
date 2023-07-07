@@ -1,7 +1,5 @@
 ## 插件说明文档
 
-插件名称：easy link rewrite it
-
 #### 描述
 
 该插件是一个用于WordPress的开源插件，旨在提供对页面和文章链接进行重写的功能。它允许您自定义页面和文章的链接，以便在访问时进行重定向到新的自定义链接。
@@ -44,20 +42,16 @@
 
 #### 许可证
 
-该插件基于 MIT 许可证 进行许可。
+该插件基于 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) 进行许可。
 
 #### 注意事项
 
-在使用插件前，请确保已经备份了您的网站数据。
-
-插件修改了链接重定向的行为，因此请谨慎操作并进行充分测试，以确保重定向逻辑符合您的需求。
-
-如果您在使用过程中遇到问题，请参阅插件文档或联系插件作者获取支持。
+- 在使用插件前，请确保已经备份了您的网站数据。
+- 插件修改了链接重定向的行为，因此请谨慎操作并进行充分测试，以确保重定向逻辑符合您的需求。
+- 如果您在使用过程中遇到问题，请参阅插件文档或联系插件作者获取支持。
 
 #### 链接
 
-插件GitHub仓库: 插件名称
-
-报告问题: 问题报告
-
-许可证: MIT 许可证
+- 插件GitHub仓库: [easy link rewrite it](https://github.com/your-plugin-repo)
+- 报告问题: [问题报告](https://github.com/helongquan/easy_link_rewrite_it)
+- 许可证: [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
